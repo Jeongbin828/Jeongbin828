@@ -17,3 +17,5 @@
 <br>
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongbin828&layout=compact)](https://github.com/Jeongbin828/github-readme-stats)
