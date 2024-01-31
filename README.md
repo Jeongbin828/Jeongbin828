@@ -1,8 +1,9 @@
 
+![js](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <br>
-![js](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![js](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![js](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)
 ![js](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 ![js](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
